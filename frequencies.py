@@ -1,9 +1,6 @@
 """Frequencies function."""
 """ENTER YOUR SOLUTION HERE!"""
 
-print("Enter a list of items separated by a commas: ")
-listItems = [str(value) for value in input().split(",")]
-
 def frequencies(items):
     frequencies = {}
     # Your code goes here
